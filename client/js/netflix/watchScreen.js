@@ -1,4 +1,3 @@
-
 const CAST = 'actors';
 function createCastList(casts){
     let castList = document.createElement('ol');
